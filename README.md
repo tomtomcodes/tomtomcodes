@@ -6,13 +6,13 @@
 
 <br>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/daugherty-tom/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="mailto:YOUR_EMAIL_ADDRESS">
+<a href="mailto:tom.daugherty123@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
-<a href="YOUR_PORTFOLIO_URL">
+<a href="...">
   <img src="https://img.shields.io/badge/Portfolio-Projects-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
 </a>
 
@@ -152,9 +152,9 @@ An academic cybersecurity project examining the use of DNS tunnelling for covert
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&title_color=2563EB&icon_color=7C3AED&text_color=475569&bg_color=00000000" alt="GitHub statistics">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=tomtomcodes&show_icons=true&hide_border=true&title_color=2563EB&icon_color=7C3AED&text_color=475569&bg_color=00000000" alt="GitHub statistics">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&title_color=2563EB&text_color=475569&bg_color=00000000" alt="Most used languages">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomtomcodes&layout=compact&hide_border=true&title_color=2563EB&text_color=475569&bg_color=00000000" alt="Most used languages">
 
 </div>
 
