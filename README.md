@@ -39,7 +39,7 @@ I enjoy transforming ideas and technical requirements into practical, reliable a
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,c,sql" alt="Programming languages">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,c,matlab,wireshark,sql" alt="Programming languages">
 </p>
 
 ### Frameworks, Libraries and Tools
