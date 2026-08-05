@@ -39,13 +39,13 @@ I enjoy transforming ideas and technical requirements into practical, reliable a
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,c,matlab,wireshark,sql" alt="Programming languages">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,c,matlab,unity,sql" alt="Programming languages">
 </p>
 
 ### Frameworks, Libraries and Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,figma,mysql" alt="Development tools">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,docker,figma,mysql" alt="Development tools">
 </p>
 
 Additional experience includes:
