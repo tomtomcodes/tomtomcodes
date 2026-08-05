@@ -150,13 +150,6 @@ An academic cybersecurity project examining the use of DNS tunnelling for covert
 
 ## GitHub Activity
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tomtomcodes&show_icons=true&hide_border=true&title_color=2563EB&icon_color=7C3AED&text_color=475569&bg_color=00000000" alt="GitHub statistics">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomtomcodes&layout=compact&hide_border=true&title_color=2563EB&text_color=475569&bg_color=00000000" alt="Most used languages">
-
-</div>
 
 ## Contact
 
