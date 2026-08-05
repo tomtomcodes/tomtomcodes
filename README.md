@@ -156,7 +156,7 @@ An academic cybersecurity project examining the use of DNS tunnelling for covert
 I am interested in opportunities where I can contribute to meaningful projects, learn from experienced professionals and continue developing my technical skills.
 
 * **LinkedIn:** [Connect with me](https://www.linkedin.com/in/daugherty-tom/)
-* **Email:** tom.daugherty123@gmail.com(mailto:tom.daugherty123@gmail.com)
+* **Email:** tom.daugherty123@gmail.com
 
 <div align="center">
 
