@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-Connect-8e73d2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="mailto:tom.daugherty123@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-ffd7ae?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/Email-Contact-ffd966?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 <a href="...">
   <img src="https://img.shields.io/badge/Portfolio-Projects-ba4040?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
