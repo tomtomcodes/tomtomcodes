@@ -7,13 +7,13 @@
 <br>
 
 <a href="https://www.linkedin.com/in/daugherty-tom/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-444444?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-6898ba?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="mailto:tom.daugherty123@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-555555?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/Email-Contact-c7689f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 <a href="...">
-  <img src="https://img.shields.io/badge/Portfolio-Projects-666666?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-Projects-72a75c?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
 </a>
 
 </div>
