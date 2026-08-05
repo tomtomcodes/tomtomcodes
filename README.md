@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:2563eb,100:7c3aed&height=230&section=header&text=Tom%20Daugherty&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Computer%20Science%20%7C%20Software%20Development%20%7C%20Technology&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:2563eb,100:7c3aed&height=230&section=header&text=Tom%20Daugherty&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Computer%20Science%20%7C%20Software%20Development%20%7C%20Design&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Software+and+Web+Developer;Interested+in+AI%2C+UX%2FUI+and+Cybersecurity;Building+practical+and+user-focused+solutions" alt="Typing introduction" />
 
