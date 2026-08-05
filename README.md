@@ -162,6 +162,6 @@ I am interested in opportunities where I can contribute to meaningful projects, 
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,55:2563eb,100:0f172a&height=110&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:CC0000,55:FDC58B,100:7c3aed&height=110&section=footer" width="100%" />
 
 </div>
